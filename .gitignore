@@ -3,4 +3,4 @@
 *.ipynb_checkpoint*
 *.pkl
 *extra-data
-*picture-shift*
+*picture-shift.gif
